@@ -5,7 +5,8 @@ Semester: <b>2</b> <br>
 Year: <b>2022</b>
 
 This repository contains:
-* C Programs
+* C Programs (for Data Structures lab)
+* Lab Record RHS (questions & program, no output)
 
 back from Semester 2 of University.
 
